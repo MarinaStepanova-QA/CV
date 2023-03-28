@@ -31,7 +31,7 @@ body {
 .header__subtitle {
   color: #000000;
   font-size: 20px;
-  line-height: 1.4;
+  line-height: 3;
   margin: 0;
   font-family: "Helvetica Neue";
 }
@@ -221,8 +221,8 @@ body {
     border: 1px solid #ccc;
     box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
     border-radius: 48px;
-    margin: 0 10px 10px 0;
-    padding: 6px;
+    margin: 0 30px 10px 0;
+    padding: 5px;
     color: #89AC76;
 }
 .social a i {
@@ -269,4 +269,3 @@ body {
 .zebra li {padding: 14px;}
 .zebra li:nth-child(odd) {background: #c5efae;}
 .zebra li:nth-child(even) {background: white;}
-
